@@ -13,3 +13,12 @@ body {
   padding: 0;
   box-sizing: border-box;
 }
+
+.navbar { z-index: 9999; }
+
+.active {
+  background: white;
+  color: black;
+  border-radius: 200vw;
+  font-weight: bold;
+}
